@@ -1,0 +1,42 @@
+[
+    {
+        "id": "67rdca3eeb7f6fgeed471818",
+        "name": "Смартфоны",
+        "groupId": "67rdca3eeb7f6fgeed471818"
+    },
+    {
+        "id": "67rdca3eeb7f6fgeed471820",
+        "name": "Ноутбуки",
+        "groupId": "67rdca3eeb7f6fgeed471820"
+    },
+    {
+        "id": "67rdca3eeb7f6fgeed471814",
+        "name": "Телевизоры",
+        "groupId": "67rdca3eeb7f6fgeed471814"
+    },
+    {
+        "id": "67rdca3eeb7f6fgeed471822",
+        "name": "Аудио",
+        "groupId": "67rdca3eeb7f6fgeed471822"
+    },
+    {
+        "id": "67rdca3eeb7f6fgeed471824",
+        "name": "Техника для дома",
+        "groupId": "67rdca3eeb7f6fgeed471824"
+    },
+    {
+        "id": "67rdca3eeb7f6fgeed471829",
+        "name": "Техника для кухни",
+        "groupId": "67rdca3eeb7f6fgeed471829"
+    },
+    {
+        "id": "67rdca3eeb7f6fgeed471830",
+        "name": "Фото-видео",
+        "groupId": "67rdca3eeb7f6fgeed471830"
+    },
+    {
+        "id": "67rdca3eeb7f6fgeed471831",
+        "name": "Товары для геймеров",
+        "groupId": "67rdca3eeb7f6fgeed471831"
+    }
+]
