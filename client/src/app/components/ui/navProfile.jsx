@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
-import { imageProfile } from "../../styles/images";
+import user from "../../assets/user.png";
 
 const NavProfile = ({ name }) => {
     const [isOpen, setOpen] = useState(false);
@@ -14,8 +14,8 @@ const NavProfile = ({ name }) => {
             <div className="btn dropdown-toggle d-flex align-items-center">
                 <div className="me-2">{name}</div>
                 <img
-                    src={imageProfile}
-                    alt=""
+                    src={user}
+                    alt="icon user"
                     height="40"
                     className="img-responsive rounded-circle"
                 />
